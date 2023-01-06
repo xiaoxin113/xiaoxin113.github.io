@@ -4,11 +4,24 @@
   
     
     <entry>
-      <title>第一篇文章</title>
-      <link href="/2020/11/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-      <url>/2020/11/11/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      <title>🤖京东提取ck教程</title>
+      <link href="/2023/01/06/%E4%BA%AC%E4%B8%9C%E6%8F%90%E5%8F%96ck%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/01/06/%E4%BA%AC%E4%B8%9C%E6%8F%90%E5%8F%96ck%E6%95%99%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是第一篇文章啊啊"><a href="#这是第一篇文章啊啊" class="headerlink" title="这是第一篇文章啊啊"></a>这是第一篇文章啊啊</h2><p>饿fsdf<br>dsfsdf</p><p>dsfdsfsdfsd</p><p>sdfsd</p><p>sdfsdf</p><p>sdfsdf</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><h1 id="前言📝"><a href="#前言📝" class="headerlink" title="前言📝"></a>前言📝</h1> <font size = 4>在阅读系列教程之前,请确保您已经添加机器人且会基本使用机器人,您可以参考🤖机器人使用指南<div class="tag link"><a class="link-card" title="🤖机器人使用指南" href="https://blog.xiaoxin.work/2023/01/01/机器人使用指南/"><div class="left"><img src="http://101.35.53.121:8080/imgs/static/5AyycbpJ.jpg"/></div><div class="right"><p class="text">🤖机器人使用指南</p><p class="url">https://blog.xiaoxin.work/2023/01/01/机器人使用指南/</p></div></a></div></font> <font size = 5>机器人呆瓜项目系列教程导航🚥🚥🚥</font><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><font size = 5>机器人功能教程导航🚥🚥🚥</font><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p></blockquote><h1 id="ck是什么？"><a href="#ck是什么？" class="headerlink" title="ck是什么？"></a>ck是什么？</h1><ul><li>CK是Cookie的简称（以下统称为ck），在用户进行登录操作后，服务端会加密生成一段由数字和字母组合而成的文本，该文本就是ck，一般来说，ck是具有有效期的，在有效期内，我们可以通过ck进行模拟一些签到，浏览等任务</li></ul><ul><li>一般来说ck可根据抓包的方式分为<span class='p red'>mck</span>和<span class='p blue'>appck</span></li><li><span class='p red'>mck</span>又称为网页ck，是根据浏览器抓包的方式获取到的ck</li><li><span class='p blue'>appck</span>又称为软件ck，是通过抓包软件获取app本身的ck</li><li>这两种ck都可以模拟完成任务，区别是网页ck（<span class='p red'>mck</span>）有效期长但权限底，软件ck（<span class='p blue'>appck</span>）有效期虽然短但是权限高，所以有些任务只能通过<span class='p blue'>appck</span>才可以模拟进行，根据自己想要完成的任务合理的选择ck，以下我们将分别介绍<span class='p red'>mck</span>和<span class='p blue'>appck</span>的获取方法</li></ul><h2 id="安卓苹果用户获取mck教程（通用）"><a href="#安卓苹果用户获取mck教程（通用）" class="headerlink" title="安卓苹果用户获取mck教程（通用）"></a>安卓苹果用户获取mck教程（通用）</h2><ol><li><p>下载Alook浏览器(安卓免费，苹果6元)</p><ul><li>安卓用户点我下载alook浏览器</li><li><div class="tag link"><a class="link-card" title="点我下载alook浏览器" href="https://www.pgyer.com/app/install/a0a4a2a5fb6daa0de9f00a450fc5e0fd/?time=1673006626485"><div class="left"><img src="http://101.35.53.121:8080/imgs/static/JjjXGGeB.png"/></div><div class="right"><p class="text">点我下载alook浏览器</p><p class="url">https://www.pgyer.com/app/install/a0a4a2a5fb6daa0de9f00a450fc5e0fd/?time=1673006626485</p></div></a></div></li><li>苹果用户前往apple store下载</li></ul></li><li><p>使用步骤</p><ul><li>浏览器地址栏搜索 <a href="http://m.jd.com/">http://m.jd.com/</a> 进入京东官网</li><li>登录京东后，点击下方三条横杠</li><li>选择 ：工具箱</li><li>选择开发者工具</li><li>选择Cookie</li><li>复制即可</li></ul></li><li><p>提交给机器人绑定账号</p></li></ol><p><font size = 4>                📺️视频教程📺</font><br><div class="videos" col='2'><br><div class="video"><video controls preload><source src='https://txmov2.a.yximgs.com//upic/2023/01/06/20/BMjAyMzAxMDYyMDM1MjFfMTU0MTE5NTc3OF85MjkxODQzMDA0MF8wXzM=_b_B6f27afcbe79f509f2b099ab6e60c8371.mp4' type='video/mp4'>Your browser does not support the video tag.</video></div></div></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>🤖机器人使用指南</title>
+      <link href="/2023/01/01/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+      <url>/2023/01/01/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+      
+        <content type="html"><![CDATA[<blockquote><h1 id="前言📝"><a href="#前言📝" class="headerlink" title="前言📝"></a>前言📝</h1> <font size = 5>机器人呆瓜项目系列教程导航🚥🚥🚥</font><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><font size = 5>机器人功能教程导航🚥🚥🚥</font><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p><p>等有空了再写教程</p></blockquote>]]></content>
       
       
       
